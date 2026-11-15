@@ -2,3 +2,8 @@
 # Local Git account configuration
 .gitconfig
 .gitconfig-account2
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
